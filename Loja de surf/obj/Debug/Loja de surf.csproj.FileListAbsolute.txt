@@ -11,3 +11,4 @@ C:\Users\matheus.lasilva4\source\repos\Loja de surf\Loja de surf\obj\Debug\Loja 
 C:\Users\matheus.lasilva4\source\repos\Loja de surf\Loja de surf\obj\Debug\Loja_de_surf.Login.resources
 C:\Users\matheus.lasilva4\source\repos\Loja de surf\Loja de surf\obj\Debug\Loja_de_surf.Menu.resources
 C:\Users\matheus.lasilva4\source\repos\Loja de surf\Loja de surf\obj\Debug\Loja_de_surf.Cad_funcionarios.resources
+C:\Users\matheus.lasilva4\source\repos\Loja de surf\Loja de surf\obj\Debug\Loja_de_surf.Cad_clientes.resources

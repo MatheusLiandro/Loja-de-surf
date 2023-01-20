@@ -16,5 +16,10 @@ namespace Loja_de_surf
         {
             InitializeComponent();
         }
+
+        private void radioButton1_CheckedChanged(object sender, EventArgs e)
+        {
+            groupBox1.Visible = true;
+        }
     }
 }
