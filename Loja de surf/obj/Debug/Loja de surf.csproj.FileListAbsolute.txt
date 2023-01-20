@@ -1,0 +1,13 @@
+C:\Users\matheus.lasilva4\source\repos\Loja de surf\Loja de surf\obj\Debug\Loja de surf.csproj.AssemblyReference.cache
+C:\Users\matheus.lasilva4\source\repos\Loja de surf\Loja de surf\obj\Debug\Loja de surf.csproj.SuggestedBindingRedirects.cache
+C:\Users\matheus.lasilva4\source\repos\Loja de surf\Loja de surf\obj\Debug\Loja_de_surf.Properties.Resources.resources
+C:\Users\matheus.lasilva4\source\repos\Loja de surf\Loja de surf\obj\Debug\Loja de surf.csproj.GenerateResource.cache
+C:\Users\matheus.lasilva4\source\repos\Loja de surf\Loja de surf\obj\Debug\Loja de surf.csproj.CoreCompileInputs.cache
+C:\Users\matheus.lasilva4\source\repos\Loja de surf\Loja de surf\bin\Debug\Loja de surf.exe.config
+C:\Users\matheus.lasilva4\source\repos\Loja de surf\Loja de surf\bin\Debug\Loja de surf.exe
+C:\Users\matheus.lasilva4\source\repos\Loja de surf\Loja de surf\bin\Debug\Loja de surf.pdb
+C:\Users\matheus.lasilva4\source\repos\Loja de surf\Loja de surf\obj\Debug\Loja de surf.exe
+C:\Users\matheus.lasilva4\source\repos\Loja de surf\Loja de surf\obj\Debug\Loja de surf.pdb
+C:\Users\matheus.lasilva4\source\repos\Loja de surf\Loja de surf\obj\Debug\Loja_de_surf.Login.resources
+C:\Users\matheus.lasilva4\source\repos\Loja de surf\Loja de surf\obj\Debug\Loja_de_surf.Menu.resources
+C:\Users\matheus.lasilva4\source\repos\Loja de surf\Loja de surf\obj\Debug\Loja_de_surf.Cad_funcionarios.resources

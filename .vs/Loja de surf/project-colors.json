@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bfa2bc87-0660-4d91-a6dc-d087d6a9b06a": {
+      "ProjectGuid": "bfa2bc87-0660-4d91-a6dc-d087d6a9b06a",
+      "DisplayName": "Loja de surf",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
