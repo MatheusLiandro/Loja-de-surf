@@ -63,5 +63,13 @@ namespace Loja_de_surf
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Menu outroform = new Menu();
+            this.Hide();
+            outroform.ShowDialog();
+           
+        }
     }
 }

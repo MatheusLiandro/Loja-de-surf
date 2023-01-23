@@ -16,7 +16,7 @@ namespace Loja_de_surf
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Cad_clientes());
+            Application.Run(new Login());
         }
     }
 }
