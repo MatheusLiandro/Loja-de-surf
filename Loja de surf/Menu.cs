@@ -43,7 +43,9 @@ namespace Loja_de_surf
 
         private void sairToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            Login voltar = new Login();
+            this.Hide();
+            voltar.Show();
         }
     }
 }
